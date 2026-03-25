@@ -1,0 +1,1 @@
+This is the first attempt to create a Git repo using the command line.
