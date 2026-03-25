@@ -1,3 +1,0 @@
-I'm nagigating back to Repo git-test using the terminal,
-This thoughts-2.txt file was created using the terminal
-It is being committed and pushed to github also using the termninal
